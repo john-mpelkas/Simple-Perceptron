@@ -12,14 +12,11 @@ perceptron. Additional points will be generated to Test the perceptron.
 
 **Untrained Runs**
 
-![Untrained](Simple-Perceptron/Images/UnTrained1.png)
-
-![Untrained](Simple-Perceptron/Images/unTrained2.png)
+![Untrained](Images/UnTrained1.png)
+![Untrained](Images/unTrained2.png)
 
 **Trained Runs**
 
-![Trained](Simple-Perceptron/Images/Trained1.png)
-
-![Trained](Simple-Perceptron/Images/Trained2.png)
-
-![Trained](Simple-Perceptron/Images/Trained3.png)
+![Trained](Images/Trained1.png)
+![Trained](Images/Trained2.png)
+![Trained](Images/Trained3.png)
