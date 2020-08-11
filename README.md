@@ -12,12 +12,8 @@ perceptron. Additional points will be generated to Test the perceptron.
 
 **Untrained Runs**
 
-
 ![Untrained](Images/unTrained2.png)
-![Untrained](Images/UnTrained1.png)
-
-
-
+![Untrained](Images/unTrained1.png)
 
 **Trained Runs**
 
