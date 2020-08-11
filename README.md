@@ -1,4 +1,4 @@
-#Simple Perceptron
+# Simple Perceptron
 
 **Goal**
 
