@@ -26,7 +26,7 @@ for data in trainPoints:
     point = (px,py)
 
     #Comment line out to plot untrained perceptron
-    #P.train(point, label)
+    P.train(point, label)
 
 # Guessing
 for data in testPoints:
